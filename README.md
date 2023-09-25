@@ -1,9 +1,10 @@
 # Time Series Analysis for Chicago's Trade Data
-
 This project was completed as part of the MSCA 31006 IP03 Time Series Analysis and Forecasting course in Spring 2023, through the collaborative efforts of Mia Song, Minh Vo, Rolamjaya Hotmartua, Soohyun Iris Lee, and Xiao Pang.
 
+### Objective
 The goal of prediction for Chicago’s import data is to forecast future import trends accurately, enabling businesses / policymakers to make informed decisions, optimize operations, & drive economic growth
 
+### Data
 1. Dataset Size: 254 monthly observations across 9 variables
 2. Target Variable: 'Import’ (in $billion)
 3. Time Span: January 2002 to February 2023
